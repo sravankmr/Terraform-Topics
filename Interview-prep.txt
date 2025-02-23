@@ -1,0 +1,11 @@
+https://www.turing.com/interview-questions/gcp
+
+https://www.interviewbit.com/gcp-interview-questions/#in-what-ways-can-information-stored-in-the-cloud-be-safeguarded
+
+[teraform]
+https://www.simplilearn.com/terraform-interview-questions-and-answers-article [teraform]
+https://www.youtube.com/watch?v=AZlE5R0Er_k&ab_channel=DGRUploads [senario based questions]
+https://jhooq.com/how-to-setup-virtual-machine-on-google-cloud-platform/#4-generate-keys-for-service-account [examples]
+https://www.youtube.com/watch?v=t6TxyALn05Y&ab_channel=AntonPutra [VPC creation in GCP]
+https://medium.com/@dksoni4530/terraform-interview-questions-4988bedcec80 [teraform]
+https://razorops.com/blog/top-50-terraform-interview-questions-and-answers/
